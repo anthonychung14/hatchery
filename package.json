@@ -43,5 +43,15 @@
     "tsdx": "^0.13.2",
     "tslib": "^2.0.0",
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "immer": "^7.0.5",
+    "lodash": "^4.17.15",
+    "moonads": "affinity/moonads",
+    "normalizr": "^3.6.0",
+    "react-query": "^2.4.13",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "reselect": "^4.0.0"
   }
 }
