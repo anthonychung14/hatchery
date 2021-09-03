@@ -45,7 +45,7 @@
     "typescript": "^3.9.6"
   },
   "dependencies": {
-    "immer": "^7.0.5",
+    "immer": "^9.0.6",
     "lodash": "^4.17.15",
     "moonads": "affinity/moonads",
     "normalizr": "^3.6.0",
